@@ -268,7 +268,7 @@ overflow: hidden;}
         border-radius: 50% ;
         border: 10px solid black;
         left: 47%;
-        top: 310px;
+        top: 330px;
         justify-content: center;
         align-items: center;
         animation-name: eyeMove;
@@ -293,7 +293,7 @@ overflow: hidden;}
     35%{left:47%;}
     40%{left:48%;}
     45%{left:49%;}
-    50%{background: radial-gradient(yellow,red,yellow);
+    50%{background: radial-gradient(yellow,yellow,red,red);
         left:48%;}
     
     
