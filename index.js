@@ -87,10 +87,10 @@ let buttons = Array.from(document.getElementsByClassName("btn"));
 let displayNumbers = document.getElementById('displayText');        
 console.log(buttons);
 //audio variables
-var britishInvasion = new Audio('Twist and Shout.mp3');
-var queen = new Audio('BohemianRhapsody.mp3');
-var johnny = new Audio('Johnny.mp3');
-var bob = new Audio('RollingStone.mp3');
+var britishInvasion = new Audio('Ts.mp3');
+var queen = new Audio('Br.mp3');
+var johnny = new Audio('J.mp3');
+var bob = new Audio('Rs.mp3');
 const allAudio = [britishInvasion,johnny,bob,queen];
 
 //Calculator app
