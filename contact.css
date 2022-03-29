@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    
+}
+.btn{
+    background:#e0bb20;
+}
+.mainContainer{
+    height: 100vh;
+    width: 100%;
+    background-color: #e0bb20;
+}
+
+
+
+.contact{
+    background: #841818;
+    background-size: 100% 100%;
+    height: 70vh;
+    
+    border-radius: 50px ;
+    box-shadow: 0px 10px 20px #e0bb20;
+}
+.card {
+    width: 85%;
+    border-radius: 50px;
+    box-shadow: 0px 10px 20px #841818;
+}
+.title{
+    color:#e0bb20;
+    text-shadow: 0px 5px 5px red;
+}
+
+
+.head{
+    background-color:royalblue;
+    border-radius: 5px;
+    margin-top: -40px;
+    box-shadow: 10px 10px 10px black;
+}
