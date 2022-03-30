@@ -196,6 +196,17 @@ h4 {position: absolute;
     top: 50%;
     
 }
+
+.projectList {
+    position: absolute;
+    color: black;
+    font: 20px;
+    height: 600px;
+    width: 400px;
+    background-color: #e0bb20;
+    top: 25%;
+
+}
 .calcBase {
     position: relative;
     
