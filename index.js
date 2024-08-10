@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     var menuList = document.querySelector('#menuList');
 
     document.querySelector('.linkedinLogo').addEventListener('click', () => {
-        window.location.href = 'https://www.linkedin.com/in/jon-wiesinger-79487b1a9/';
+        window.location.href = 'https://www.linkedin.com/in/jonathan-wiesinger-79487b1a9/';
     })
     // event listener for github button
     document.querySelector('.githubLogo').addEventListener('click', () => {
